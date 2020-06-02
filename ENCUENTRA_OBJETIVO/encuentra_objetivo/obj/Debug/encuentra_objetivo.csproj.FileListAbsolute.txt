@@ -1,0 +1,9 @@
+C:\Users\Marcelo Calcina\Desktop\inteligencia artificial\tareas\encuentra_objetivo\encuentra_objetivo\bin\Debug\encuentra_objetivo.exe.config
+C:\Users\Marcelo Calcina\Desktop\inteligencia artificial\tareas\encuentra_objetivo\encuentra_objetivo\bin\Debug\encuentra_objetivo.exe
+C:\Users\Marcelo Calcina\Desktop\inteligencia artificial\tareas\encuentra_objetivo\encuentra_objetivo\bin\Debug\encuentra_objetivo.pdb
+C:\Users\Marcelo Calcina\Desktop\inteligencia artificial\tareas\encuentra_objetivo\encuentra_objetivo\obj\Debug\encuentra_objetivo.csprojResolveAssemblyReference.cache
+C:\Users\Marcelo Calcina\Desktop\inteligencia artificial\tareas\encuentra_objetivo\encuentra_objetivo\obj\Debug\encuentra_objetivo.Form1.resources
+C:\Users\Marcelo Calcina\Desktop\inteligencia artificial\tareas\encuentra_objetivo\encuentra_objetivo\obj\Debug\encuentra_objetivo.Properties.Resources.resources
+C:\Users\Marcelo Calcina\Desktop\inteligencia artificial\tareas\encuentra_objetivo\encuentra_objetivo\obj\Debug\encuentra_objetivo.csproj.GenerateResource.Cache
+C:\Users\Marcelo Calcina\Desktop\inteligencia artificial\tareas\encuentra_objetivo\encuentra_objetivo\obj\Debug\encuentra_objetivo.exe
+C:\Users\Marcelo Calcina\Desktop\inteligencia artificial\tareas\encuentra_objetivo\encuentra_objetivo\obj\Debug\encuentra_objetivo.pdb
